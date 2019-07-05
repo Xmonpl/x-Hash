@@ -17,6 +17,7 @@ Hashing library written in Java.
 
 # Usage 1:
 ```
+
 package cf.xmon.test;
 
 import cf.xmon.hasher.xmonHash;
@@ -27,6 +28,7 @@ public class SimpleHash {
         System.out.println(xmonHash.sha224(tohash));
     }
 }
+
 ```
 
 # Usage 2:
