@@ -33,4 +33,4 @@ public class SimpleHash {
 
 # Usage 2:
 
->java -jar x-Hash <sha512||sha256||md5||sha224||sha384||md2||sha1> <string>
+>java -jar x-Hash.jar sha512|sha256|md5|sha224|sha384|md2|sha1 string
