@@ -35,4 +35,4 @@ public class SimpleHash {
 
 >java -jar x-Hash.jar sha512|sha256|md5|sha224|sha384|md2|sha1 string
 
-https://i.imgur.com/gBn88AY.png
+![https://i.imgur.com/gBn88AY.png](https://i.imgur.com/gBn88AY.png)
